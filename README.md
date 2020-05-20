@@ -4,7 +4,7 @@
 
 ## Description
 
-this project generates an good README.md file
+This application generates a well structured README.md file for GitHub projects. In it you can find the application's description, a table of content, the app's usage, license, contributors, tests and even user questions that one may have for the developer.
 
 # Table of Content
 
@@ -22,7 +22,7 @@ To install the necessary dependencies, run the following command:
 
 ## Usage
 
-this repo holds assignment #7 ReadMe Generator
+This repo holds the application code for a README.md generator
 
 ## License
 
@@ -30,7 +30,7 @@ This project is licensed under the MIT license
 
 ## Contributing
 
-this repo has one contributor
+This repo has one contributor
 
 ## Tests
 
@@ -40,4 +40,4 @@ To run tests, run the following command:
 
 ## Questions
 
-if you have any questions contact johnromano23 at john_romano23@yahoo.com
+If you have any questions contact johnromano23 at john_romano23@yahoo.com

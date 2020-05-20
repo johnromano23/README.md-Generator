@@ -1,7 +1,7 @@
 fs = require("fs");
 var inquirer = require("inquirer");
 var Data = require("./data");
-var Generate = require("./utils/generateMarkdown");
+var Generate = require("./generateMarkdown");
 
 const questions = [
   {
